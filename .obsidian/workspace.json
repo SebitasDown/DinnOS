@@ -23,16 +23,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proyectos/DinnOS - Cerebro Integrado a Obsidian.md",
+                "file": "proyectos/NotCloud/NotCloud - Aprende e Integra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DinnOS - Cerebro Integrado a Obsidian"
+              "title": "NotCloud - Aprende e Integra"
+            }
+          },
+          {
+            "id": "4a27cf7aaf5e14db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "proyectos/NotCloud/Arquitectura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arquitectura"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,18 +219,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "319d5c8ea662bf17",
+  "active": "4a27cf7aaf5e14db",
   "lastOpenFiles": [
+    "proyectos/NotCloud/NotCloud - Aprende e Integra.md",
+    "proyectos/NotCloud/Arquitectura.md",
+    "libros",
+    "archivos",
+    "recursos",
+    "Áreas (Responsabilidades)/Sin nombre",
+    "Áreas (Responsabilidades)",
+    "proyectos/DinnOS/DinnOS - Cerebro Integrado a Obsidian.md",
+    "proyectos/NotCloud",
+    "proyectos/DinnOS",
     "chats/Algo.md",
     "chats/¿Qué hacemos después de esto?.md",
-    "proyectos/DinnOS - Cerebro Integrado a Obsidian.md",
     "README.md",
     "Sin título.base",
     "chats",
-    "memoria",
-    "estudio",
-    "tareas",
-    "proyectos",
-    "ideas"
+    "memoria"
   ]
 }

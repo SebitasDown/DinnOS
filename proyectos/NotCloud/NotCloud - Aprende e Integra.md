@@ -1,0 +1,1 @@
+**NotCloud** es una aplicación estilo Notion diseñada bajo un enfoque de desarrollo robusto, escalable y desacoplado, enfocada en la gestión de notas estructuradas en bloques, usuarios y personalización de espacios de trabajo
