@@ -7,13 +7,14 @@ Docker permite empaquetar aplicaciones en **contenedores**: entornos aislados co
 
 ## Comandos esenciales
 
-| Comando | Descripción |
-|---|---|
-| `docker ps` | Ver contenedores corriendo |
-| `docker logs <nombre>` | Ver logs de un contenedor |
-| `docker stop <nombre>` | Detener un contenedor |
-| `docker rm <nombre>` | Eliminar un contenedor |
+| Comando                                         | Descripción                  |
+| ----------------------------------------------- | ---------------------------- |
+| `docker ps`                                     | Ver contenedores corriendo   |
+| `docker logs <nombre>`                          | Ver logs de un contenedor    |
+| `docker stop <nombre>`                          | Detener un contenedor        |
+| `docker rm <nombre>`                            | Eliminar un contenedor       |
 | `docker run -d --name mi-app -p 8080:80 imagen` | Crear y correr un contenedor |
+
 
 ## Volúmenes
 Permiten que los datos persistan aunque el contenedor se elimine:
