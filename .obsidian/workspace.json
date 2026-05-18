@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chats/¿Qué hacemos después de esto?.md",
+                "file": "proyectos/DinnOS - Cerebro Integrado a Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "¿Qué hacemos después de esto?"
+              "title": "DinnOS - Cerebro Integrado a Obsidian"
             }
           }
         ],
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a7f74d3c63bb8d3f",
@@ -202,7 +202,6 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "githobs:Manage a github issue": false,
       "obsidian-git:Open Git source control": false
     }
   },
@@ -210,13 +209,14 @@
   "lastOpenFiles": [
     "chats/Algo.md",
     "chats/¿Qué hacemos después de esto?.md",
+    "proyectos/DinnOS - Cerebro Integrado a Obsidian.md",
+    "README.md",
     "Sin título.base",
     "chats",
     "memoria",
     "estudio",
     "tareas",
     "proyectos",
-    "ideas",
-    "README.md"
+    "ideas"
   ]
 }
