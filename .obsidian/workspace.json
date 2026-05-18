@@ -16,19 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
-          },
-          {
-            "id": "319d5c8ea662bf17",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,23 +190,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "319d5c8ea662bf17",
+  "active": "3af38a98d803f032",
   "lastOpenFiles": [
+    "02-estudio/devops/Docker - Guía rápida.md",
+    "02-estudio/frontend/React - Fundamentos.md",
     "proyectos/NotCloud/Arquitectura y tecnologías.md",
+    "03-ideas/¿Qué hacemos después de esto?.md",
+    "03-ideas/Algo.md",
+    "02-estudio/bases-de-datos/Bases de datos.md",
+    "02-estudio/backend/Backend.md",
+    "01-proyectos/NotCloud/Arquitectura y tecnologías.md",
+    "01-proyectos/NotCloud/NotCloud - Aprende e Integra.md",
+    "01-proyectos/DinnOS/DinnOS - Cerebro Integrado a Obsidian.md",
+    "templates",
+    "attachments",
+    "05-recursos",
+    "04-tareas",
+    "03-ideas",
+    "02-estudio/frontend",
+    "02-estudio/devops",
+    "02-estudio/conceptos",
+    "02-estudio/bases-de-datos",
+    "02-estudio/backend",
     "proyectos/NotCloud/NotCloud - Aprende e Integra.md",
-    "estudio/backend/Bakend.md",
-    "estudio/Bases de Datos/Bases de datos.md",
-    "estudio/Bases de Datos",
-    "estudio/backend/Sin nombre",
-    "estudio/backend",
-    "libros",
-    "archivos",
-    "recursos",
-    "Áreas (Responsabilidades)/Sin nombre",
-    "Áreas (Responsabilidades)",
     "proyectos/DinnOS/DinnOS - Cerebro Integrado a Obsidian.md",
-    "proyectos/NotCloud",
-    "proyectos/DinnOS",
+    "estudio/bases de datos/Bases de datos.md",
+    "estudio/backend/Bakend.md",
     "chats/Algo.md",
     "chats/¿Qué hacemos después de esto?.md",
     "README.md"
