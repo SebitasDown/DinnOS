@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-estudio/bases-de-datos/Bases de datos.md",
+                "file": "templates/Plantilla - Nota de estudio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bases de datos"
+              "title": "Plantilla - Nota de estudio"
             }
           }
         ]
@@ -216,19 +216,21 @@
   },
   "active": "a21d48872c3394cd",
   "lastOpenFiles": [
+    "Proyecto relacionado.md",
+    "templates/Plantilla - Nota de estudio.md",
+    "templates/Plantilla - Idea.md",
+    "README.md",
+    "02-estudio/bases-de-datos/Bases de datos.md",
     "url.md",
     "02-estudio/backend/Backend.md",
     "02-estudio/devops/Docker - Guía rápida.md",
     "01-proyectos/NotCloud/Arquitectura y tecnologías.md",
     "Bakend.md",
     "03-ideas/Bot de Telegram con IA financiera.md",
-    "02-estudio/bases-de-datos/Bases de datos.md",
     "02-estudio/conceptos/Clean Architecture.md",
     "03-ideas/Algo.md",
     "03-ideas/¿Qué hacemos después de esto?.md",
     "04-tareas/Semana 2026-05-18.md",
-    "templates/Plantilla - Idea.md",
-    "templates/Plantilla - Nota de estudio.md",
     "05-recursos/Cheatsheet - Git.md",
     "02-estudio/frontend/React - Fundamentos.md",
     "proyectos/NotCloud/Arquitectura y tecnologías.md",
@@ -249,7 +251,6 @@
     "estudio/bases de datos/Bases de datos.md",
     "estudio/backend/Bakend.md",
     "chats/Algo.md",
-    "chats/¿Qué hacemos después de esto?.md",
-    "README.md"
+    "chats/¿Qué hacemos después de esto?.md"
   ]
 }
